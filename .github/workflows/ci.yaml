@@ -13,10 +13,10 @@ jobs:
       uses: actions/setup-dotnet@v3
 
     - name: Restore dependencies
-      run: dotnet restore TKWBooking.sln
+      run: dotnet restore Projects/TKWBooking.sln
  
     - name: dotnet build
-      run: dotnet build TKWBooking.sln -c Release --no-restore
+      run: dotnet build Projects/TKWBooking.sln -c Release --no-restore
 
     - name: dotnet test
-      run: dotnet test TKWBooking.sln -c Release --no-build
+      run: dotnet test Projects/TKWBooking.sln -c Release --no-build
