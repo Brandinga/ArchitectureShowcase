@@ -1,0 +1,25 @@
+@TKWApi_HostAddress = http://localhost:5068
+
+GET {{TKWApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+
+### Create a user
+
+POST {{TKWApi_HostAddress}}/user/RegisterUser
+Content-Type: application/json
+
+{
+    "Name": "MY NAME5",
+    "FirstName": "my firstname",
+    "Password": "123"
+}
+
+###
+
+GET {{TKWApi_HostAddress}}/player/
+Accept: application/json
+
+###

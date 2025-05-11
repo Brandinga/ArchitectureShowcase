@@ -1,0 +1,14 @@
+C:\Development\ArchitectureShowcase\Projects\TKWData\bin\Release\net9.0\TKWData.deps.json
+C:\Development\ArchitectureShowcase\Projects\TKWData\bin\Release\net9.0\TKWData.runtimeconfig.json
+C:\Development\ArchitectureShowcase\Projects\TKWData\bin\Release\net9.0\TKWData.dll
+C:\Development\ArchitectureShowcase\Projects\TKWData\bin\Release\net9.0\TKWData.pdb
+C:\Development\ArchitectureShowcase\Projects\TKWData\obj\Release\net9.0\TKWData.csproj.AssemblyReference.cache
+C:\Development\ArchitectureShowcase\Projects\TKWData\obj\Release\net9.0\TKWData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\ArchitectureShowcase\Projects\TKWData\obj\Release\net9.0\TKWData.AssemblyInfoInputs.cache
+C:\Development\ArchitectureShowcase\Projects\TKWData\obj\Release\net9.0\TKWData.AssemblyInfo.cs
+C:\Development\ArchitectureShowcase\Projects\TKWData\obj\Release\net9.0\TKWData.csproj.CoreCompileInputs.cache
+C:\Development\ArchitectureShowcase\Projects\TKWData\obj\Release\net9.0\TKWData.dll
+C:\Development\ArchitectureShowcase\Projects\TKWData\obj\Release\net9.0\refint\TKWData.dll
+C:\Development\ArchitectureShowcase\Projects\TKWData\obj\Release\net9.0\TKWData.pdb
+C:\Development\ArchitectureShowcase\Projects\TKWData\obj\Release\net9.0\TKWData.genruntimeconfig.cache
+C:\Development\ArchitectureShowcase\Projects\TKWData\obj\Release\net9.0\ref\TKWData.dll

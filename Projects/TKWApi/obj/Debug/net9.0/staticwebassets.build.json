@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "C9YhRbjyToC6mVP0s2sn2A0182xh+WUMW6mBCYCPQPo=",
+  "Source": "TKWApi",
+  "BasePath": "_content/TKWApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
